@@ -9,6 +9,7 @@
 ## BOJ Solve
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Limhs)](https://solved.ac/Limhs)
+<img src="http://mazandi.herokuapp.com/api?handle=Limhs&theme=warm"/>
 
 
 <!--
