@@ -8,7 +8,7 @@
 
 ## BOJ Solve
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={Limhs991013@gmail.com})](https://solved.ac/{Limhs991013@gmail.com})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=Limhs)](https://solved.ac/Limhs)
 
 
 <!--
