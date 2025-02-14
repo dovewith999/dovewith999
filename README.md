@@ -1,8 +1,8 @@
 ## Profile
-호서대학교 졸업 예정(2018.03 ~ 2025.08 예정)  
-쥬신게임아카데미 졸업(2021.11 ~ 2022.11)  
-야타브엔터 인턴(2024.12 ~ 2025.01 / 1개월)  
-육군 병장 만기 전역(2019,08 ~ 2021.03)  
+호서대학교 재학 (2018.03 ~ 2025.08 예정)  
+쥬신게임아카데미 졸업 (2021.11 ~ 2022.11)  
+야타브엔터 인턴 (2024.12 ~ 2025.01 / 1개월)  
+육군 병장 만기 전역 (2019,08 ~ 2021.03)  
 
 ## Studing..
 <img src="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=C&logoColor=white" /><img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
