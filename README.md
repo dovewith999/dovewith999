@@ -12,7 +12,8 @@
 <img src="http://mazandi.herokuapp.com/api?handle=Limhs&theme=warm"/>
 
 ## Git Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiLimhsanuraghazra)](https://github.com/dovewith999)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dovewith999)](https://github.com/dovewith999/github-readme-stats)
+
 
 
 <!--
