@@ -13,6 +13,7 @@
 
 ## Git Stat
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dovewith999&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues&theme=radical)](https://github.com/dovewith999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovewith999)](https://github.com/dovewith999/github-readme-stats)
 
 
 
