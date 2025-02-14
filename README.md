@@ -4,10 +4,10 @@
 야타브엔터 YATAV 인턴 (2024.12 ~ 2025.01 / 1개월)  
 육군 병장 만기 전역 (2019,08 ~ 2021.03)  
 
-## Langueges
+## Languege
 <img src="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=C&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-A100FF?&style=for-the-badge&logo=C-Sharp&logoColor=white" />
 
-## Engines
+## Engine
 <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white" /> <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> 
 
 ## Etc Tools
