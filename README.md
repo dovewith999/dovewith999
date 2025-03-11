@@ -7,6 +7,7 @@
 # Tech Stack
 ## Languege
 <img src="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=C&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-A100FF?&style=for-the-badge&logo=C-Sharp&logoColor=white" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 
 ## Engine
 <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white" /> <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> 
