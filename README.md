@@ -17,7 +17,6 @@
 # BOJ Solve
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Limhs)](https://solved.ac/Limhs)
-<img src="http://mazandi.herokuapp.com/api?handle=Limhs&theme=warm"/>
 <img src="http://mazandi.herokuapp.com/api?handle=Limhs&theme=cold"/>
 
 # Git Stat
