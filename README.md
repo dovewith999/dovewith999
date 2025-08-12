@@ -18,7 +18,9 @@
 # BOJ Solve
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Limhs)](https://solved.ac/Limhs)
-<img src="http://mazandi.herokuapp.com/api?handle=Limhs&theme=cold"/>
+
+<!--<img src="http://mazandi.herokuapp.com/api?handle=Limhs&theme=cold"/>-->
+
 
 # Git Stat
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dovewith999&count_private=true&show_icons=true&hide=stars,issues&theme=radical)](https://github.com/dovewith999/github-readme-stats)
